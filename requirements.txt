@@ -1,0 +1,8 @@
+numpy == 1.23.4
+pandas == 2.0.2
+matplotlib
+seaborn == 0.12.2
+sklearn
+scipy
+imblearn
+gdown
